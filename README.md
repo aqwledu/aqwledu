@@ -1,5 +1,5 @@
-### Hi there 👋
-My name is Wencheng Wang,The teacher of The University of Science and Technology of China.
+Hello,fans!
+Welcome to my code space.My name is Wencheng Wang,I teachet the science of computer .The teacher of The University of Science and Technology of China.
 <!--
 **aqwledu/aqwledu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
